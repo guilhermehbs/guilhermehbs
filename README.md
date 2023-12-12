@@ -9,6 +9,7 @@
 
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehbs&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehbs&layout=compact&theme=dracula)
 
 
